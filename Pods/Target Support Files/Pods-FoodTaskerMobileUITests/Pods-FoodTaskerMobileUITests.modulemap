@@ -1,0 +1,6 @@
+framework module Pods_FoodTaskerMobileUITests {
+  umbrella header "Pods-FoodTaskerMobileUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

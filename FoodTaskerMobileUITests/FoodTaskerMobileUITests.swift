@@ -2,7 +2,7 @@
 //  FoodTaskerMobileUITests.swift
 //  FoodTaskerMobileUITests
 //
-//  Created by Alex Pritula on 14.07.2018.
+//  Created by Alexander Kulyk on 14.07.2018.
 //  Copyright © 2018 Alexander Kulyk. All rights reserved.
 //
 
